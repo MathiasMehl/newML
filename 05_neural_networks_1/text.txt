@@ -1,0 +1,3 @@
+In the first part of this self study, you should finish the exercises from last time covering basic concepts for learning neural networks.
+
+Afterwards, continue with the Jupyter notebook below (you need to have Jupyter installed to run the notebook). Here you should implement and experiment with a small neural network using primarily numpy and basic PyTorch functionality.
